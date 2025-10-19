@@ -1,0 +1,27 @@
+{
+  "pack": {
+    "pack_format": 64,
+    "description": "[Default Mode] Completely overhaul the GUI of Minecraft Java Edition.",
+    "supported_formats":
+      {
+        "min_inclusive": 34,
+        "max_inclusive": 150
+      }
+  },
+  "overlays": {
+		"entries": [
+			{
+				"directory": "1_21",
+				"formats": [34,34]
+            },
+			{
+				"directory": "1_21_2",
+				"formats": [35,42]
+            },
+      {
+				"directory": "1_21_5",
+				"formats": [43,55]
+            }
+		]
+  }
+}

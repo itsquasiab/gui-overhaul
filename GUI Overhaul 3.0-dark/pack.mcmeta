@@ -1,0 +1,11 @@
+{
+  "pack": {
+    "pack_format": 69.0,
+    "description": "[Dark mode] Completely overhaul the GUI of Minecraft Java Edition.",
+    "supported_formats":
+      {
+        "min_inclusive": 63,
+        "max_inclusive": 69.0
+      }
+  }
+}
