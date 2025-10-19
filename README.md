@@ -18,7 +18,7 @@ This pack comes with 2 color modes: Default and Dark, supports custom inventory 
 ## 🔧Compatibility
 
 ### 🔧 Currently supported versions: **1.20.2 -> 1.21.8**.
-### 🛠️ Currently supported 22 mods:
+### 🛠️ Currently supported mods: 22.
 ```
 - Advancement Plaques
 - AppleSkin
