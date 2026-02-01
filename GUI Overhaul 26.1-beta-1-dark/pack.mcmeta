@@ -1,0 +1,9 @@
+{
+  "pack": {
+    "pack_format": 75,
+    "supported_formats": [63, 100],
+    "min_format": [63, 0],
+    "max_format": [100, 0],
+    "description": "§7[Dark]\n§bMade with ♥ by itsquasi."
+  }
+}
