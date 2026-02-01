@@ -15,6 +15,4 @@ Visit and download GUI Overhaul at: https://modrinth.com/resourcepack/gui-overha
 
 This pack comes with 2 color modes: Default and Dark, supports custom inventory screens likes barrel, ender chest and shulker boxes by using OptiGUI (most recommended) or Optifine.
 
-
-
 ### Made with 🩵 by itsquasi.
