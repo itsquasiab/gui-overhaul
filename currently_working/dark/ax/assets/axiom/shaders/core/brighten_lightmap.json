@@ -1,0 +1,17 @@
+{
+    "vertex": "core/blit_screen",
+    "fragment": "axiom:core/brighten_lightmap",
+    "samplers": [
+        { "name": "Sampler0" }
+    ],
+    "uniforms": [
+        {
+            "name": "MinBrightness",
+            "type": "float",
+            "count": 1,
+            "values": [
+                1
+            ]
+        }
+    ]
+}
