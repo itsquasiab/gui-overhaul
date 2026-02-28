@@ -1,5 +1,5 @@
 # GUI Overhaul
-Completely overhaul the GUI of Minecraft Java Edition.
+Ore UI for Java Edition, with a twist of colorful containers!
 
 ## 👋Introduction
 
