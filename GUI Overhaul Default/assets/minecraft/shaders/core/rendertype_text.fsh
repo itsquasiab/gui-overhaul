@@ -12,16 +12,26 @@ in vec2 texCoord0;
 
 out vec4 fragColor;
 
-void main() {
+void main()
+{
     vec4 color = texture(Sampler0, texCoord0) * vertexColor * ColorModulator;
-    if (color.a < 0.1) {
+    if (color.a < 0.1)
+    {
         discard;
     }
 
-    if (color.r > 0.2479 && color.r < 0.2481
-        && color.g > 0.2479 && color.g < 0.2481
-        && color.b > 0.2479 && color.b < 0.2481) {
-        color = vec4(0.1, 0.1, 0.1, 1.0);
+    // Text color in inventory
+    if ((color.r > 0.24802768 && color.r < 0.2480278)
+        && (color.g > 0.24802768 && color.g < 0.2480278)
+        && (color.b > 0.24802768 && color.b < 0.2480278)
+    )
+    {
+        color = vec4(0.0, 0.0, 0.0, 0.0);
     }
-    fragColor = apply_fog(color, sphericalVertexDistance, cylindricalVertexDistance, FogEnvironmentalStart, FogEnvironmentalEnd, FogRenderDistanceStart, FogRenderDistanceEnd, FogColor);
+
+    fragColor = apply_fog(
+        color, sphericalVertexDistance, cylindricalVertexDistance,
+        FogEnvironmentalStart, FogEnvironmentalEnd, FogRenderDistanceStart,
+        FogRenderDistanceEnd, FogColor
+    );
 }
