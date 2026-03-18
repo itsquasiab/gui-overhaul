@@ -26,7 +26,7 @@ void main()
         && (color.b > 0.24802768 && color.b < 0.2480278)
     )
     {
-        color = vec4(0.0, 0.0, 0.0, 0.0);
+        color = vec4(0.0, 0.0, 0.0, 1.0);
     }
 
     fragColor = apply_fog(
