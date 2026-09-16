@@ -1,0 +1,9 @@
+{
+  "pack": {
+    "pack_format": 15,
+    "supported_formats": [1, 15],
+    "min_format": [1, 0],
+    "max_format": [15, 0],
+    "description": "§7[Default]\n§bMade with ♥ by itsquasi."
+  }
+}

@@ -2,7 +2,13 @@
   "selectWorld.gameMode.survival": "§6Survival",
   "selectWorld.gameMode.hardcore": "§4Hardcore",
   "selectWorld.gameMode.creative": "§3Creative",
-  "selectWorld.gameMode.spectator": "§7Spectator",
+  "selectWorld.gameMode.spectator": "§fSpectator",
+
+  "gameMode.adventure": "§eAdventure Mode",
+  "gameMode.creative": "§3Creative Mode",
+  "gameMode.hardcore": "§4Hardcore Mode",
+  "gameMode.spectator": "§fSpectator Mode",
+  "gameMode.survival": "§6Survival Mode",
 
   "options.difficulty.peaceful": "§bPeaceful",
   "options.difficulty.easy": "§5Easy",
@@ -24,6 +30,23 @@
 
   "options.on": "§aON",
   "options.off": "§7OFF",
+
+  "itemGroup.buildingBlocks": "§8Building Blocks",
+  "itemGroup.coloredBlocks": "§8Colored Blocks",
+  "itemGroup.combat": "§8Combat",
+  "itemGroup.consumables": "§8Consumables",
+  "itemGroup.crafting": "§8Crafting",
+  "itemGroup.foodAndDrink": "§8Food & Drinks",
+  "itemGroup.functional": "§8Functional Blocks",
+  "itemGroup.hotbar": "§8Saved Hotbars",
+  "itemGroup.ingredients": "§8Ingredients",
+  "itemGroup.inventory": "§8Survival Inventory",
+  "itemGroup.natural": "§8Natural Blocks",
+  "itemGroup.op": "§8Operator Utilities",
+  "itemGroup.redstone": "§8Redstone Blocks",
+  "itemGroup.search": "§8Search Items",
+  "itemGroup.spawnEggs": "§8Spawn Eggs",
+  "itemGroup.tools": "§8Tools & Utilities",
 
   "container.barrel": "§fBarrel",
   "container.beacon": "§fBeacon",
