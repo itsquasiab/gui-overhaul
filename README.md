@@ -11,8 +11,8 @@ Visit and download GUI Overhaul at: https://modrinth.com/resourcepack/gui-overha
 
 ## 📗About
 
-**Welcome to GUI Overhaul!** This is a resource pack that **overhauls** the colors and appearance of all buttons and inventory screens, making Java Edition's GUIs more in parity with Bedrock Edition while keeping the the classic default style.
+GUI Overhaul is a resource pack designed to overhaul Java Edition's interface to match OreUI, the modern UI framework currently used in Minecraft Bedrock.
 
-This pack comes with 2 color modes: Default and Dark, supports custom inventory screens likes barrel, ender chest and shulker boxes by using OptiGUI (most recommended) or Optifine.
+This pack incorporates both current and upcoming OreUI textures. Since OreUI itself is still actively under development by Mojang, expect frequent updates and layout adjustments with future releases of this pack to stay aligned with the latest designs.
 
 ### Made with 🩵 by itsquasi.
