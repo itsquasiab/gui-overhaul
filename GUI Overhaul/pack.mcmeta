@@ -1,21 +1,26 @@
 {
   "pack": {
-    "pack_format": 84,
+    "pack_format": 97,
     "supported_formats": [16, 100],
     "min_format": [16, 0],
     "max_format": [100, 0],
-    "description": "§7[Default]\n§bMade with ♥ by itsquasi."
+    "description":
+      [
+        {"text": "[Default]", "color": "#138291"},
+        {"text": "\n"},
+        {"text": "Made with ♥ by itsquasi.", "color": "#9CFFFF"}
+      ]
   },
   "overlays": {
-		"entries": [
-			{
-				"directory": "assets_16_34",
-				"formats": [16,34]
-            },
-			{
-				"directory": "assets_35_42",
-				"formats": [35,42]
-            },
-		]
+    "entries": [
+      {
+        "directory": "assets_16_34",
+        "formats": [16, 34]
+      },
+      {
+        "directory": "assets_35_42",
+        "formats": [35, 42]
+      }
+    ]
   }
 }
