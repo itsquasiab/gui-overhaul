@@ -2,6 +2,13 @@
   "menu.singleplayer": "§f\uE000 Singleplayer",
   "menu.multiplayer": "§f\uE001 Multiplayer",
   "menu.online": "§f\uE002 Minecraft Realms",
+
+  "gui.friends.requests_count": "\uE031 Requests (%s)",
+  "gui.friends.tab_friends": "\uE030 Friends",
+
+  "createWorld.tab.game.title": "\uE020 Game",
+  "createWorld.tab.more.title": "\uE022 More",
+  "createWorld.tab.world.title": "\uE021 World",
   
   "selectWorld.gameMode.survival": "§f\uE014 §6Survival",
   "selectWorld.gameMode.hardcore": "§f\uE015 §4Hardcore",
@@ -18,6 +25,22 @@
   "options.difficulty.easy": "\uE011 §5Easy",
   "options.difficulty.normal": "\uE012 §dNormal",
   "options.difficulty.hard": "\uE013 §cHard",
+
+  "stat.generalButton": "\uE040 General",
+  "stat.itemsButton": "\uE041 Items",
+  "stat.mobsButton": "\uE042 Mobs",
+
+  "options.skinCustomisation": "\uE050 Skin Customization...",
+  "options.video": "\uE051 Video Settings...",
+  "options.language": "\uE052 Language...",
+  "options.resourcepack": "\uE053 Resource Packs...",
+  "options.telemetry": "\uE054 Telemetry Data...",
+  "options.online": "\uE055 Online...",
+  "options.sounds": "\uE056 Music & Sounds...",
+  "options.controls": "\uE057 Controls...",
+  "options.chat": "\uE058 Chat Settings...",
+  "options.accessibility": "\uE059 Accessibility Settings...",
+  "options.credits_and_attribution": "\uE060 Credits & Attribution...",
 
   "options.graphics.fast": "§eFast",
   "options.graphics.fancy": "§aFancy",
