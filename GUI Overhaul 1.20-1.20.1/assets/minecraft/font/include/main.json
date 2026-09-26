@@ -1,0 +1,46 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "minecraft:icons/main_menu.png",
+      "ascent": 10,
+      "height": 12,
+      "chars": ["\uE000\uE001\uE002"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:icons/difficulty.png",
+      "ascent": 7,
+      "height": 7,
+      "chars": ["\uE010\uE011\uE012\uE013\uE014\uE015\uE016\uE017\uE018"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:icons/create_new_world.png",
+      "ascent": 10,
+      "height": 12,
+      "chars": ["\uE020\uE021\uE022"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:icons/friends.png",
+      "ascent": 10,
+      "height": 12,
+      "chars": ["\uE030\uE031"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:icons/statistics.png",
+      "ascent": 10,
+      "height": 12,
+      "chars": ["\uE040\uE041\uE042"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:icons/options.png",
+      "ascent": 10,
+      "height": 12,
+      "chars": ["\uE050\uE051\uE052\uE053\uE054\uE055\uE056\uE057\uE058\uE059\uE060"]
+    }
+  ]
+}

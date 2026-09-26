@@ -39,7 +39,9 @@
   "options.sounds": "\uE056 Music & Sounds...",
   "options.controls": "\uE057 Controls...",
   "options.chat": "\uE058 Chat Settings...",
+  "options.chat.title": "\uE058 Chat Settings...",
   "options.accessibility": "\uE059 Accessibility Settings...",
+  "options.accessibility.title": "\uE059 Accessibility Settings...",
   "options.credits_and_attribution": "\uE060 Credits & Attribution...",
 
   "options.graphics.fast": "§eFast",
@@ -52,7 +54,7 @@
   "options.narrator.all": "§aNarrates All",
   "options.narrator.chat": "§aNarrates Chat",
   "options.narrator.notavailable": "§cNot Available",
-  "options.narrator.off": "&7OFF",
+  "options.narrator.off": "§7OFF",
   "options.narrator.system": "§aNarrates System",
 
   "options.on": "§aON",

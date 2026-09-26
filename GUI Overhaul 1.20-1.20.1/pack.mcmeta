@@ -1,6 +1,11 @@
 {
   "pack": {
     "pack_format": 15,
-    "description": "§7[Default]\n§bMade with ♥ by itsquasi."
+    "description":
+      [
+        {"text": "[Default]", "color": "#138291"},
+        {"text": "\n"},
+        {"text": "Made with ♥ by itsquasi.", "color": "#9CFFFF"}
+      ]
   }
 }
