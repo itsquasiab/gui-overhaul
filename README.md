@@ -11,8 +11,10 @@ Visit and download GUI Overhaul at: https://modrinth.com/resourcepack/gui-overha
 
 ## 📗About
 
-GUI Overhaul is a resource pack designed to overhaul Java Edition's interface to match OreUI, the modern UI framework currently used in Minecraft Bedrock.
+**GUI Overhaul** is a resource pack designed to overhaul Java Edition's interface to match OreUI, the modern UI framework currently used in Minecraft Bedrock.
 
-This pack incorporates both current and upcoming OreUI textures. Since OreUI itself is still actively under development by Mojang, expect frequent updates and layout adjustments with future releases of this pack to stay aligned with the latest designs.
+This pack incorporates both current and upcoming Ore UI textures. Since Ore UI itself is still actively under development by Mojang, expect frequent updates and layout adjustments with future releases of this pack to stay aligned with the latest designs.
+
+To get notified when new updates drop, make sure to **star** this repository on GitHub and **follow** this project on Modrinth!
 
 ### Made with 🩵 by itsquasi.
