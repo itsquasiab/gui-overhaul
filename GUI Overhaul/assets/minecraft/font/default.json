@@ -3,6 +3,14 @@
 		{
 			"type": "reference",
 			"id": "minecraft:include/menus"
+		},
+		{
+			"type": "reference",
+			"id": "minecraft:include/hud"
+		},
+		{
+			"type": "reference",
+			"id": "minecraft:include/custom"
 		}
 	]
 }

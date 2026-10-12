@@ -1,0 +1,13 @@
+{
+	"providers": [
+		{
+			"type": "bitmap",
+			"file": "icons:statistic/tabs.png",
+			"ascent": 10,
+			"height": 12,
+			"chars": [
+				"\uE000\uE001\uE002"
+			]
+		}
+	]
+}

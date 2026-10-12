@@ -104,8 +104,8 @@
 		{
 			"type": "bitmap",
 			"file": "icons:menu/escape_menu.png",
-			"ascent": 13,
-			"height": 16,
+			"ascent": 10,
+			"height": 12,
 			"chars": [
 				"\uDB80\uDC83\uDB80\uDC84\uDB80\uDC85\uDB80\uDC86\uDB80\uDC87\uDB80\uDC88\uDB80\uDC89"
 			]
