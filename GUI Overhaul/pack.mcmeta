@@ -1,9 +1,9 @@
 {
   "pack": {
-    "pack_format": 97,
-    "supported_formats": [16, 100],
+    "pack_format": 16,
+    "supported_formats": [16, 200],
     "min_format": [16, 0],
-    "max_format": [100, 0],
+    "max_format": [200, 0],
     "description":
       [
         {"text": "[Default]", "color": "#138291"},
