@@ -70,8 +70,6 @@
     "stat.generalButton": "\uE050 一般",
     "stat.itemsButton": "\uE051 アイテム",
     "stat.mobsButton": "\uE052 Mob",
-    "deathScreen.title": "§l死んでしまった！",
-    "deathScreen.title.hardcore": "§lゲームオーバー！",
     "options.graphics.fast": "§e処理優先",
     "options.graphics.fancy": "§a描画優先",
     "options.graphics.fabulous": "§d最高設定！",

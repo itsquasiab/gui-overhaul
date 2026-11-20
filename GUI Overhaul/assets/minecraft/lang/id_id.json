@@ -1,6 +1,6 @@
 {
-    "menu.singleplayer": "\uE000 Bermain Sendiri",
-    "menu.multiplayer": "\uE001 Bermain Bersama",
+    "menu.singleplayer": "\uE000 Ekapemain",
+    "menu.multiplayer": "\uE001 Multipemain",
     "menu.online": "\uE002 Minecraft Realms",
     "menu.options": "\uE003 Opsi...",
     "menu.quit": "\uE004 Keluar Permainan",
@@ -70,8 +70,6 @@
     "stat.generalButton": "\uE050 Umum",
     "stat.itemsButton": "\uE051 Benda",
     "stat.mobsButton": "\uE052 Makhluk",
-    "deathScreen.title": "§lAnda Mati!",
-    "deathScreen.title.hardcore": "§lPermainan Selesai!",
     "options.graphics.fast": "§eCepat",
     "options.graphics.fancy": "§aMewah",
     "options.graphics.fabulous": "§dMenakjubkan!",

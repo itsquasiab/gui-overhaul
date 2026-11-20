@@ -70,8 +70,6 @@
     "stat.generalButton": "\uE050 Général",
     "stat.itemsButton": "\uE051 Objets",
     "stat.mobsButton": "\uE052 Créatures",
-    "deathScreen.title": "§lVous êtes mort(e) !",
-    "deathScreen.title.hardcore": "§lFin de partie !",
     "options.graphics.fast": "§eRapides",
     "options.graphics.fancy": "§aDétaillés",
     "options.graphics.fabulous": "§dFabuleux !",
